@@ -28,7 +28,7 @@ function Landing() {
             </Container>
 
         </FullWrap>
-        
+
 
             <Markwrap>
             <h1 style={{textAlign:"center"}}>Mark Your Next Step</h1>
@@ -37,6 +37,15 @@ function Landing() {
              </Container>
 
              </Markwrap>
+
+        <Container>
+             <Row>
+        <Col md="3"><Colwrap>1</Colwrap></Col>
+        <Col md="3"><Colwrap>2</Colwrap></Col>
+        <Col md="3"><Colwrap>3</Colwrap></Col>
+        <Col md="3"><Colwrap>4</Colwrap></Col>
+            </Row>
+        </Container>
 
         <Container>
              <Row>
